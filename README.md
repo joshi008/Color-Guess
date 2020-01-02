@@ -1,2 +1,2 @@
 # color-guess
-A project i made during my course on Web Development
+A project uses javascript and css to make rgb color.
